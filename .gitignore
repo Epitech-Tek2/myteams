@@ -1,0 +1,8 @@
+myteams_server
+myteams_cli
+*.o
+test_ftp.sh
+.tmp
+main.c
+a.out
+*.cpp

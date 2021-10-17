@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "*.tcc": "cpp",
+        "sstream": "c",
+        "random": "c",
+        "tuple": "cpp",
+        "functional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "type_traits": "c",
+        "deque": "c",
+        "string": "c",
+        "vector": "c",
+        "list": "c"
+    }
+}

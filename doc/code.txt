@@ -1,0 +1,21 @@
+100 = team creation
+101 = channel creation
+102 = list team
+103 = list channel
+104 = sub
+105 = unsub
+106 = subed
+
+200 = login
+201 = logout
+
+300 = list messages
+301 = send message
+302 = user infos
+303 = users infos
+304 = logs
+
+500 = error unauthorize
+501 = error user exist
+502 = error user
+503 = error team
